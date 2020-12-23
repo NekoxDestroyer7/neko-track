@@ -9,7 +9,7 @@ Usage:
   ./neko track [command]
 
 Examples:
-./neko track scan -n <number>
+./neko track scan -n (number)
 
 Available Commands:
   help        Help about any command
